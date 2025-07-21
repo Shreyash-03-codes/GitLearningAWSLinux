@@ -8,3 +8,8 @@ class Hello{
 		System.out.println("Hello");
 	}
 }
+class Bye{
+	public void bye(){
+		System.out.println("Bye");
+	}
+}
