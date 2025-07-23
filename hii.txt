@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 Hello i am shreyash Gurav
-bye 
-good night
+what are doing
+i am doing coding
+bye good night.
