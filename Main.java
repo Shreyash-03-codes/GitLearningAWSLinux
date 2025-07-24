@@ -1,5 +1,5 @@
-class Side{
-	Side(){
-
+public class Main{
+	Main(){
+	
 	}
 }
