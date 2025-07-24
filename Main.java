@@ -3,8 +3,3 @@ class Side{
 
 	}
 }
-class SubMain{
-	SubMain(){
-
-	}
-}
